@@ -1,4 +1,8 @@
+
 # 🚀 GitHub Fundamentals: Creating and Managing Your First Repository
+
+<img width="1408" height="768" alt="Group 20" src="https://github.com/user-attachments/assets/903c78cb-4f21-4b7b-822f-b7e0184452a8" />
+
 
 Welcome to this Git and GitHub learning repository! This documentation serves as a comprehensive study guide based on the Git & GitHub tutorial series. This repository focuses on understanding the foundational workflow of GitHub directly through its web interface.
 
