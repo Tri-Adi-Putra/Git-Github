@@ -153,4 +153,4 @@ To complete this module, fork this repository, walk through Steps 1 to 5, and le
 
 ---
 
-Would you like to expand this guide by adding the equivalent local Git CLI commands (such as `git branch`, `git checkout -b`, and tracking origins) so your friends can practice using their local terminals instead of just the GitHub UI?
+
