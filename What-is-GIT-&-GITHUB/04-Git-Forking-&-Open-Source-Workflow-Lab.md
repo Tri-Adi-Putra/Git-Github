@@ -1,6 +1,7 @@
 
 # 🚀 Challenge: Git Forking & Open-Source Workflow Lab
 
+<img width="1408" height="768" alt="Group 22" src="https://github.com/user-attachments/assets/7b19e2e6-d07f-4e51-a8a2-9ca735b236ee" />
 
 
 Welcome to the **Git Forking & Collaboration Lab**! This practical assignment is designed to master the exact workflow used by engineering teams and open-source contributors worldwide.
