@@ -1,6 +1,7 @@
 
 # Mastering Git Branching and Conflict Resolution: A Hands-On Lab
 
+<img width="1408" height="768" alt="Group 21" src="https://github.com/user-attachments/assets/ce79dfd3-6533-478d-b3af-e41f73f045af" />
 
 
 Welcome to this practical guide on **Git Branching and Conflict Resolution**. This repository is designed as a self-paced learning module for developers to understand how isolated development streams work, how to manage Pull Requests, and how to confidently resolve the dreaded merge conflict.
